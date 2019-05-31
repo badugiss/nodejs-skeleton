@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-skeleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Inkyu Park <badugiss@gmail.com>",
+  "license": "MIT",
+  "_moduleAliases": {
+    "@": "src"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "load-config-js": "^0.1.0",
+    "module-alias": "^2.2.0"
+  }
+}
